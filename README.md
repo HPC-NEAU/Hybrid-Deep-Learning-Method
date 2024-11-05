@@ -29,7 +29,7 @@ The data in this study are available at https://github.com/AIChallenger/AI_Chall
 
   
 ### Citation
-If you find our code is helpful for you, feel free to cite
+Zhou, C., Zhang, X. Plant Disease Identification under Imbalanced Dataset using Hybrid Deep Learning Method. J. Inst. Eng. India Ser. A (2024). https://doi.org/10.1007/s40030-024-00851-z
 ```
 
 ```
